@@ -1,0 +1,23 @@
+Adrian Eidelman - RSK
+Epicenter Podcast
+https://youtu.be/VWMUYr58dAQ
+- cofounder of RSK labs
+- scalable smart contract platform on Bitcoin
+- started five years ago
+- launched main net in 2018
+- building more decentralized apps on Bitcoin 
+- 2015 Ethereum launched 
+- had vision to be built upon Bitcoin - most secure platform 
+- envisioned building a sidechain - need Bitcoin to transact 
+- want to build a more inclusive financial system
+- needed in Latin America - a basic financial need 
+- in Latin America people go to stable coins to protect their assets 
+- independent platform
+- similar to Ethereum but native token is Bitcoin (used as a bridge, a two way peg)
+- EVM compatible blockchain
+- primary blockchain is Bitcoin secondary is RSK
+- merge mine platform using proof of work concensus model 
+- pal peg is used
+- have plans to have other devices to improve security
+- merge mining 
+- Most of DEFI built upon Ethereum

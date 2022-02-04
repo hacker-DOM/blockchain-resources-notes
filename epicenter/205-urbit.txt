@@ -1,0 +1,16 @@
+Galen Wolfe-Pauly
+Urbit
+https://youtu.be/DFeN-TKZor0
+- background - has architecture degree - grew up designing software 
+- Urbit is an old project
+- Urbit is a personal blockchain 
+- similar to a webstack 
+- similar to web app - 30 000 lines of code
+- general purpose server
+- backed up event log
+- wanted to build better interfaces and tools - felt limited by centralized problem (didn't want tools that make people look at more ads)
+- galaxy, star, planet analogy 
+- there is a threat of exit 
+- get free identity, networking 
+- AI analysing data - user should own the data and user gets money from sharing 
+- Urbit is place where you can program with the blockchain

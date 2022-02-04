@@ -1,0 +1,19 @@
+Robert Leshner
+Compound 
+https://youtu.be/oL11E4HuoNI
+
+- Compound protocol - money market protocol which allows you to earn interest on Ether ect.
+- 2017 started making Compound 
+- Compound - liquid pool money market - interest rate set by market
+- money markets - set of instruments that have limited creditors 
+- it is pooled 
+- interest rates set by market forces algorithmically determined by supply and demand 
+- automated - similar to protocol 
+- never have certainty of interest rate 
+- less useful for long term - variable rate
+- useful for DAPs
+- must maintain excess collateral to borrow from protocol
+- Compound protocol - builds offline communication
+- community desides on some things
+- governance model is to allow voting when a fixed number is reached 
+-

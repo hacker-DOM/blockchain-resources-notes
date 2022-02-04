@@ -1,0 +1,27 @@
+https://youtu.be/8oqogmh0nHQ
+Epicenter Podcast 7
+The AMM Protocol
+- Osmosis founder
+- frontrunning systems 
+- OSMOSIS - first time cosmos vision came alive
+- OSMOSIS runs on Cosmos - independent chain on Cosmos - 8 chains connected - but using Cosmos SDK
+- bridge - move tokens between chain - IDC build native chain - can send tokens without additional trust 
+- what prevents scams - IDC Cosmos vision - keeps track of how many tokens transfered over network 
+- web of trust - how many tokens you can send is how trustworthy the network is 
+- 8 IDC enable chains in Cosmos network - different types of chains 
+- Solana is scalable blockchain 
+- AMM Cosmos - not first AMM built using Cosmos - biggest is StoreChain - AMM fundamental building blocks of DeFi 
+- Cosmos should not become DeFi application 
+- Osmosis launched as clone of Balancer
+- Cosmos mindset - believe in localized systems 
+- AMM laboratory - where to provide custom AMMs 
+- Osmosis roadmap - batching, threshold encryption 
+- batch options 
+- NEV (conference) 
+- relative ordering - trying to position your transaction in relation to another transaction; absolute ordering - trying to position yourself absolutely within a block
+- Cosmos - need low level access to chain - however still part of Ethereum ecosystem 
+- bridges - bridges network to Ethereum 
+- Osmosic Ethereum AMM - soon be able to bring Ethereum assets to Cosmos 
+- how to bootstrap new chain and make sure there is security - quadratic airdrop - make sure distribution is decentralized
+- Ions
+- Osmosis community - pro Atom

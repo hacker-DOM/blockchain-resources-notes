@@ -1,0 +1,9 @@
+https://youtu.be/hEHv-dE4xl8
+Finematics Notes 10 Quadratic Funding
+- mathematically optimal way to fund public goods in democratic community
+- public goods - a good that is non excludable and non rivolrous, can be used simultaneously by one person
+- private goods - food clothes, bread (excludable and rivalrous), club goods (excludable and non rivalrous) - cinemas, parks, common goods (non-exclusable and rivolous), public goods (non excludable and non rivolrous)
+- public goods examples that benefit from quadratic funding  - opensource projects, free education, free services
+- quadratic funding - quadratic voting to funding mechanism - described in paper by vitalic - matching pool with matching partners providing funding for projects - amount received by project is quadratic equation of money - more contributions higher matched amount 
+- models creates strong incentives for individuals to contribute even just small amounts 
+- one dollar allows for a higher matched amount

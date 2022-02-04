@@ -1,0 +1,37 @@
+https://www.youtube.com/watch?v=y6VvxGHCxa4
+Compiled vs Interpreted Programming Languages
+FINEMATICS NOTES 6
+- code compilation and execution - not all p languages the same
+- compiled vs interpreted languages
+- compilations and interpretation goal - translate human readable socurce to machine code 
+- programming language is neither compiled or interpreted but the implementation is 
+- many programming languages have been implemented using both compliers and interprets 
+- JAVA - source code complied in to intermediate represetnation (bytecode) then interpreted 
+- compiled lanauge typically implement using compilers 
+- compilers is a program that translates statements from programming langue to another langue (machine code)
+- not on the fly (ahead of time)
+- C plus plus example of compilation lagnuage 
+- main benefit of compiled languages is execution - speed of execution
+- main drawback of complied languages - poor portability 
+- Long compilation time 
+- compiled -c go rust 
+- interpreted lanuges - doesnt compile source code directly into machine code ahead of execution
+- uses interpreter 
+- interpreter translates conde on the fly 
+- Bytecode - quite slow 
+- not many fully interpreted languages left (one example is java script (can be) )
+- code can be easily send over network and executed in users browser 
+- BYTECODE INTERPRETED LANGUAGES - JAVBA C SHARP PYTHON RUBY 
+- Main Benefits of INterpreted Language - portability, faster compilation process 
+- main drawback - slower execution speed, potential for leaking source code 
+- Both complied and interpreted languages
+- complied language speed can be achiaved without sacrificsing portability and compliation
+- JIT COMPIPLATION is the answer 
+- this is hybrid compilation 
+- can store already complied machine code
+- JIT compliation anylised the code and makes decisiono which parts chould be complied into machine code
+- JIT BEENEFITS - high execution speed DRAWEBACK - slower execution during the intital period 
+- Languages that use JIT - JAva C SHarp PYPY V
+- summary : COMPILED (FAST EXECUTION SPEED, POOR PORTABILITY, COMPILATION TIME SLOW) INTEPRETED (SLOW EXECUTION SPEED, GOOD PORTABILITY, FAST COMPILATION TIME) JIT COMPLIED (FAST DEPENDING ON JIT, GOOD PORTABILITY, FAST COMPILATION TIME) 
+- quite artifical splitting 
+- most popular langauges are compiled, compiled to byte code and interpreted, coplied to byte code and interpreted with jit

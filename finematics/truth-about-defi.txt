@@ -1,0 +1,20 @@
+https://youtu.be/Ia0DVfRJKy8
+Finematics Notes 16
+The Truth About DEFI
+- the state of DEFI
+- 2021 - 15 billion to 45 billion dollars growth
+- 50 billion dollars traded each month
+- increasing value of tokens
+- new projects every day 
+- VISA involvement
+- Layer 2 scaling 
+- sidechains (ie. Sushi swap, aave, gnosis) - launched on the sidechains 
+- rollups - optimistic rollups and zk rollups (ie.zksync)
+- interoperability 
+- composability 
+- liquidity - existing liquidity will be split among main chain, rollups, and sidechains 
+- Etherium is the leader when it comes to DEFI
+- DEFI on other chains - Binance smart chain (CeDeFi), blockchain - still similar challenges (lack of composability and interoperability)
+- many people feel lost when considering what will happen in the future - nobody can be certain - every solution will be explored 
+- DeFI is the future of finance 
+- in the next bear market it will be clear

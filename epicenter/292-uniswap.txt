@@ -1,0 +1,32 @@
+https://youtu.be/xHK0QxQ5jxg
+Epicenter Podcast 8
+Hayden Adams Uniswap
+- founder of UNISWAP
+- founded on Deacon in Prague
+- one of most used things in Defi (DAPs)
+- came out of nowhere 
+- worked on it for a year
+- not a programmer by study 
+- got laid of from work 
+- learned solidity
+- October 2017 - started working - first project as devoper
+- initial website that can swap between different tokens
+- applied for etherium foundation grant 
+- just first coding project 
+- had used decentralized exchanged before 
+- decentralized as possible - very strong on principles
+- why exchange - needed a project to figure out how smart contracts work 
+- felt that other projects compromised on some things
+- decentralized exchange protocol - made of automatic market makers 
+- has exchange contracts 
+- slippage - core property in protocol - fully automated in UNISWAP compared to traditional finance world 
+- Bankor vs UNISWAP
+- UNISWAP has the highest volume of trades 
+- fees directly proportional to liquidity you provide 
+- dynamic fees - future consideration
+- Fees height - to competitive to other DEXs
+- frontrunning - possible on UNISWAP - prevention - minimum slippage - liquidity pool for arbitrage ( prevent front running)
+- centralized exchange problem - security, deactivating account (censorships), high fees
+- people trading Reddit karma on UNISWAP
+- tokens for ability to withdraw liquidity that is locked in tokens in UNISWAP
+- perhaps a token in the future

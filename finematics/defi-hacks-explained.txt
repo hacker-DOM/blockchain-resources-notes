@@ -1,0 +1,8 @@
+Finematics
+https://youtu.be/EawgqVdUZCI
+- risk management 
+- collaboration with Rekt
+- the rug pull - suddenly removing majority of liquidity from pool - meerkat finance example - avoid how is liquidity locked - deepfake technology
+- flash loans - economic exploit - flash loan attack - must use reliable oracles
+- hack or exploit?
+- major of attacks have security audit before being hacked

@@ -1,0 +1,29 @@
+https://youtu.be/LpjMgS4OVzs
+Finematics Notes 18
+UNISWAP History
+- one of most protocols in Defi 
+- Uniswap token one of most distributed token 
+- Uniswap one of most important and discussed projects
+- protocol for decentralized exchanged tokens in defi
+- decentralized, permission less, censorship resistant 
+- functions on the basis of smart contracts
+- initial version published 2018
+- over a year work of work by Hayden Adams
+- Hayden Adams started without programming knowledge 
+- automated market maker - based on Vitalik Buterin s blog posts
+- before only Ether Delta - doesn't fit layer 1 - poor user experience lack of liquidity 
+- applied for Ethereum foundation grant which was accepted
+- runtime verification audit 
+- Hayden - rebuilt UI
+- last day of Devon 4 launch of Uniswap
+- 30 000 dollars in liquidity 
+- then initial seed investment 
+- V2 - addition of ERC 20 (before had to use ETH - high gas fees and more slippage) - on chain price fees, flash swaps - all V2 contracts written in solidity (before written in Viper)
+- 2020 - raised 11 million dollars (from notable Venture Capitalists)
+- May 2020 - trading volume in Uniswap started picking up 
+- 150 m daily trading volume 300 million dollars in liquidity
+- overtook Kraken 
+- Sushi swap - vampire attack 300 m in liquidity to 2 billion in liquidity - overtaking Coinbase daily volume (at the time Uniswap had only 10 employees compared to 1000 employees) 
+- UNISWAP tokens 
+- 1 billion tokens allocated 
+- over 2 billion dollars in liquidity in protocol

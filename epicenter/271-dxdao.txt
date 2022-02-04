@@ -1,0 +1,16 @@
+Martin Koppelmann and Matan Field
+https://youtu.be/YPh-XDaQG5I
+- dxDAO is largest organization
+- 50 persons company - three big topics
+- launched in public beta soon
+- Dutch exchange - built decentralized exchange 
+- Gnosis CEO
+- needed fully decentralized market exchange 
+- Dutch exchange - all tokens purely traded on Dutch X
+- liquidity is distributed amongst auctions
+- decoyed DutchX - live on main net - no way to upgrade but can deploy new versions 
+- building layers on top of layers is messy
+- xDAO - can trade on Dutch excchange
+- holders of token can lock down tokens for a year
+- xDAO will use tokens for people make predictions 
+- economic value of organisation - xDao will control the most resources

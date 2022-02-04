@@ -1,0 +1,18 @@
+Manuel Araoz
+OpenZeppelin
+https://youtu.be/UdbCYLRnna4
+
+- started in 2012 
+- started with proof of existence
+- saw Bitcoin as cool technology that could have other use cases 
+- proof of existence uses time stamp log
+- joined bit pay
+- now focused on zeppelin
+- Zeppelin - biggest early problem that tech stack was early 
+- focused now on security
+- Solidity safety that is inbuilt is questionable
+- open Zeppelin - framework to help developers
+- Zeppelin probably most comprehensive set of Ethereum libraries today 
+- Zeppelin vs ZeppelinOS (can help fix how to upgrade smart contracts when in production)
+- Zeppelin SDK has both on chain and off chain tools
+- existing smart contracts will interact with marketplace

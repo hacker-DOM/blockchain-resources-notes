@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=DXUhD8m_KMc
+Yam Explained 
+Finematics Notes 13
+- YAM 600M of capital in 48 hours
+- monetary experiment 
+- elastic supply, on-chain governance, governable treasury, fair distribution mechanism 
+- Ampleforth and yam difference - yam high yield stable coin, ycrv added to yam treasury
+- yam launched 11 August 2020
+- yam equal opportunity
+- yam evenly distributed between eight staking pools
+- after yam was launched 150 million values in locked value 
+- no formal audit 
+- community members started auditing the contract themselves 
+- Yam approached 0.5 billion dollars for prices 
+- A bug was found - rebase mechanism mint more than what was made 
+- YAM community mobilized 
+- finally, 600M dollars in the capital were raised in under 48 hours

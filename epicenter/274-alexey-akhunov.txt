@@ -1,0 +1,15 @@
+Alexey Akhunov
+https://youtu.be/VJFWWGHSKk8
+
+-started with Ethereum whitepaper and was following it
+-building project to ensure longerivity of project 
+-Turbo gas is better than gas - compactness of state history is better, speed of access is also better
+-changed the way state in Etherium client is represented
+-fast sync is not possible
+-turbo gas is live
+-turbo gas is mostly database
+- innovations in shards
+- Ethereum 1.x has different groups
+- charge people by the block with storage
+- recovery mechanism is an innovation
+- ecosystem research is necessary

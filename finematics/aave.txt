@@ -1,0 +1,14 @@
+Aave
+https://youtu.be/WwE3lUq51gQ
+Finematics
+- less than a year 0 to 3 million dollars in total value locked 
+- one of the most popular lending protocols in decentralized finance 
+- known as EthLend before - started in Finland
+- project started out of venture capital location 
+- Peer to peer to peer to contract
+- relationship between depositors and borrowers
+- Aave offers stable borrowing rates
+- flashloans - can borrow without any upfront loans ,- must be borrowed and repaid within same blockchain transaction
+- launched in 2020 - tvl went up rapidly
+- Aavenomics - allowed token holders to participate 
+- safety module

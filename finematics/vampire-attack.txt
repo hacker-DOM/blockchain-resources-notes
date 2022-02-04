@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=UFjXwrCGuog
+What is a Vampire Attack
+FINEMATICS NOTES 8
+- Sushiswap saga explained 
+- more than 1 billion dollars in liquidity in one week 
+- 28 august - new defi projects - Sushiswap launched - competition with uniswap - automated market maker through vampire attack
+- vampire attack - incentivize liquidity providers to stake lp tokens to a new platform stake to new platform 1000 sushi per etherium block SNX ETH LEND ETH YFI ETH LINK ETH 
+- once enough liquidity is attracted to the protocol to migrate lp tokens to new platform - liquidity sucked out of first platform and moved to another platform - sushi Masterchef contract - can steal uniswap liquidity 
+- Extra incentives for migration of liquidity - decreased emission, people would get a chunk of trading fees from uni swap
+- unforseen events - sushiswap launch - straight after launch attracted a lot of capital 200 - 1000percent apys 150 million dollars in locked value
+- Binance listed sushiswap - increase in price of sushi - 1 billion dollars in locked value - early migration voted in by the community
+- CHEF NOMI sold the entire sushi stake for ETH for 14 million dollars 
+- community lost trust in chef nomi - transferred power to SBF

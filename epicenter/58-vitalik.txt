@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=qPsCGvXyrP4
+Epicenter Podcast Notes 3
+- Vitalik - founder of Ethereum and writer at Bitcoin Magazine
+- Ethereum - crypto 2.0 - many different projects trying to use blockchain for other things (ie. financial contracts on the blockchain) - Vitalik realized that best way to make a new programming language so that more features can be added 
+- options - browser, plugin - in the end independent browser is the best 
+- there will be an Ethereum library for IOS and Android 
+- Ethereum browser - Mist 
+- Berlin Defcon - interesting projects - Mist browser, virtual machine, proof of stake, Solidity programming language 
+- programming language to control the money
+- contracts - may be better name agents, actors 
+- proof of stake - related to consensus systems - problem with Bitcoin - proof of work costs 600 million dollars per year (inefficient protocol) - consensus algorithm that is CPU friendly - Hashimoto - IO bound - every miner is forced to be a full node - the number of full nodes is declining 
+- proof of stake - consensus algorithm - make it difficult to rewrite history - proof of work must compute mathematical problem - the amount of power you have is proportional to how many coins you have - variance problem for small miners (the answer is stake pools)
+- Slasher algorithm - will not get a reward for another thousand blocks

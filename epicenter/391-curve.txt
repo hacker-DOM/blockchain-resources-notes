@@ -1,0 +1,24 @@
+https://youtu.be/SvEOUgSJWYU
+Epicenter Podcast 21
+Michael Egorov 
+The Stablecoin Exchange Protocol 
+- curve finance automated market maker
+- started with physics
+- started Curve Finance
+- Curve - exchange two coins of similar denomination ie. Eth to staked eth 
+- bonding curves how price shifts
+- close to 1.0
+- liquidity is becoming tighter - better than Uniswap
+- continuous order book
+- need considerable skill to know where to place liquidity
+- automated market markets improvement - transparent, non-custodial
+- now curve stable pairs 
+- Binance is centralized - cannot trade non-custodially
+- tokenomics keeps competition away
+- allow forks to benefit the protocol
+- Exodus - can buy crypto with Fiat 
+- Token emissions
+- curve rewards split proportionally
+- want to expand to volatile pairs
+- trading bots which create markets 
+- compiler errors must be reduced through automated tests

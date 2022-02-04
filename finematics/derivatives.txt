@@ -1,0 +1,17 @@
+https://youtu.be/QxoqPZRw9y4
+Derivatives in DEFI
+Finematics
+- key let's in financial system
+- derive value from another underlying asset
+- forwards, futures, options and swaps
+- hedging and speculation may uses of derivatives
+- hedging - can be used to accommodate risk and offset loss and profit - can be used to make predictable income 
+- impermanent loss
+- derivatives allow hedging of cryptocurrencies
+- other use is speculation - easy exposure to particular assets - can make money 
+- Derivatives have a long and interesting history 
+- derivat
+- synthetix - helping effort of moving to layer two
+- UMA 
+- opyn
+- European and american options

@@ -1,0 +1,16 @@
+https://youtu.be/7gC7xJ_98r8
+Finematics Notes 15 
+Graph Protocol and GRT Token
+- indexing protocol enabling for the creation of fully decentralized apps
+- makes building decentralized apps easier
+- December 2020 went live
+- indexing - allows for reducing the time required for finding piece of information 
+- database indexes cut search time 
+- indexes speed up queries 
+- indexing is important for blockchains 
+- without indexing have naive approach for blocking starting with block one
+- ingestion services - allow for faster retrieval of data
+- decentralized query protocol for blockchain - the graph 
+- uses graphql
+- architecture of graph Protocol - indexers (bodě operátors of graph) (index subgraphs and earn rewards for this), consumers, curators (signal what subgraphs worth indexing) (receive rewards), delegators, fiahermen, arbitrators
+- GRT token - used by curators to signal subgraphs which are worth indexing

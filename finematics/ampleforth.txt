@@ -1,0 +1,16 @@
+Ampleforth
+https://youtu.be/e-8yjmsshFg
+Finematics
+
+- ampleforth - new cryptocurrency - elastic supply 
+- FIAT currencies have elastic supplies
+- Bitcoin is the opposite
+- useful for price stability
+- ampleforth is non dilutive and elastic
+- solves inelasticity problém
+- expansion, contraction, or equilibrium are three states ampleforth can be in
+- expansion - proportionally increased 
+- contraction - ample proportionally decreased across all wallets 
+- rebase function is used
+- smoothing factor also known as dampening factor
+- alternative to central bank money which is adaptive to shocks

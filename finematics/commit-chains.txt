@@ -1,0 +1,13 @@
+https://youtu.be/f7F67ZP9fsE
+Finematics Notes 17
+Commit Chains
+- sidechain - separate blockchain for scaling Layer one blockchain - usually proof of stake, proof of authority... - users can withdraw sidechain to main chain - once tokens on sidechain then reliant on co census mechai ism of sidechain
+- commit chain is different from sidechain 
+- permission less validators - proof of stake 21 validators - proof of authority (chain initiator makes choice of person)
+- commit chain anyone can be validator 
+- malicious behavior of validator - significant down time...
+- polygon post chain - haimdall chain coordinates validator selection; bor ,- aggregates transactions into blocks 
+- anyone can participate in securing tokens 
+- checkpointing - Tendermint 
+- 2 - way Ethereum bridge 
+- post bridge - secured by whole validator set 

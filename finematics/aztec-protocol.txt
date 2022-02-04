@@ -1,0 +1,20 @@
+Epicenter Podcast 19
+https://youtu.be/xqKF9BJhkjA
+Aztec Protocl
+- zk roll-up
+- zk money
+- allows transaction to be cheaper than layer one transaction
+- better than a private roll-up proof 
+- can create zero launch proof 
+- can link layer 1 address through DeFi bridge 
+- uses same node sysem as rollups
+- ZK money is the main source for front end protocols
+- get transparency of layer 1 rollups
+- more fixed protocols
+- private transactions 
+- must have abstract smart contracts 
+- abstracting cryptography 
+- this is a new way to write smart contracts 
+- how important is to zero knowledge tech - it is very important, just like Ethereum
+- zero knowledge proofs 
+- creating abstraction layer with easy cryptography is foundational

@@ -1,0 +1,26 @@
+Finematics Notes 9
+Yearn Vaults
+- bring 60 percent returns
+- yearn protocol 
+- yearn Vaults - pools of funds with associated strategy for maximizing returns
+- more active than standard yearn 
+- supply collateral, provide liquidity, farm other tokens 
+- yearn community votes startegy 
+- response to yield farming 
+- ytokens 
+- always withdraw same asset that initially deposited 
+- withdrawn amount is initial amount plus pool yield minus fees 
+- vault holdings vs. strategy holdings 
+- idle amount sits in amount 
+- profit earning startegy must result in 5 percent fee
+- governance staking contract
+- stable coin, dai, tusd, usdc, usdt - examples
+- yearn eth vault - current strategy eth deposited - makerdao deposit - lending and borrowing 
+- ydai vault - curvey pool
+- complex strategy 
+- 60 percent returns
+- 370 000 yeth vault - largest CDP on makerdao 
+- is 60 percent in yeth vault sustainable - probably not 
+- benefits - automating yield farming (saves time and gas prices)
+- risks - bugs, stable coins loosing peg to dollar, eth is suseptible to changes in liquidity 
+- yearn Vaults new development in defi space

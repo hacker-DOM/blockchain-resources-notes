@@ -1,0 +1,19 @@
+Finematics Sushi Protocol
+https://youtu.be/Cbtvc8Eso_
+
+- launched in 2020
+- decentralized exchange for swapping assets
+- lending platform etc.
+- open approchach to scaling solutions - deploy to all upcoming environments
+- Ethereum deployed to polygon, xdai, back, fantom, moonbeam
+- sushi.com acquired domain
+- automated market maker (AMM) swap assets in decentralized way
+- second largest AMM in Ethereum
+- growing rapidly
+- sushi holders mist stake in sushi bar
+- one of most productive assets are sushi tokens
+- onsen - projects selected based on quality 
+- offers permanent yield farming opportunities 
+- liquidity mining protocol offered in Sushi
+- BentoBox
+- Miso - token launchpad platform - makes creating a new token easier

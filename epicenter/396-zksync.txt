@@ -1,0 +1,20 @@
+Alex Gluchowski 
+Matter Labs/zkSync
+https://youtu.be/7jPusi4BJWc
+
+- first EVM compatible zkRollup protocol 
+- studied computer science in Berlin 
+- started a number of startups 
+- first startups was a copy of last pass 
+- Ethereum was different than Bitcoin for him
+- lived as consultant in Hong Kong
+- zk roll-up - layer 1 scaling solution - 
+- optimistic verification is different from zk roll-up
+- zk rollups are cheaper as a scaling solution
+- only use bandwidth not storage
+- the bottleneck of Ethereum is storage and jumping around sequentially
+- 100x improvement with zk roll-up
+- Exodus mode 
+- ZkSync - block time can vary 
+- Zk porter - pay small fees independent of ethereum gas price
+- zk rollups are mid to long term better than optimistic rollups, especially with frequent oracle updates 

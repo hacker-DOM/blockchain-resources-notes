@@ -1,0 +1,21 @@
+https://youtu.be/c54PzVtpL60
+Epicenter Podcast 5
+The LAO - DAOs from legal perspective
+- Aaron Wright
+- confounder of open LAO and Open Law
+- Open Law - linking legal agreements and meeting the crypto
+- DAO - not governing internet of things but software
+- DAOs are decentralized and autonomous
+- DAOs - organizations, algorithm is responsible
+- DAOs - low participation - how can DAOs create decisions - some DAOs participation is low
+- proxy building - providing a third party to vote on your behalf - but there are high costs to this 
+- DAO token - multitoken model
+- legal DAO - wrapped (operating via software) and unwrapped DAOs
+- limited liability company within the US
+- 99 member limit 
+- limited liabity company and dispute resolution 
+- arbitration question
+- wrapped DAOs - new bill can file one document in Wyoming - can file through API - all through technology
+- internationalization of company - the DAO - new technology
+- unwrapped DAO - without legal partnership - contractian partnership good between members 
+- issues that DAOs face - expensive to run organization ( high gas prices)

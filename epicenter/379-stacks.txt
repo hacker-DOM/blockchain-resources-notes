@@ -1,0 +1,25 @@
+Muneeb Ali
+https://youtu.be/2rBUk056L3s
+Stacks
+
+- smart contract platform built on top of Bitcoin
+- cofounder of company 
+- background - background in computer science from Princeton 
+- summer of 2015 started 
+- blockchain as a natural and elegant way to solve some problems
+- first version but directly on top of Bitcoin
+- Stacks 2.0 - can scale independently of Bitcoin 
+- minor builds stacks block 
+- bids and miners competing with each other 
+- call to clarity conract
+- fork of stacks chain 
+- large number of miners
+- sofisticated minors, big pools - handful of minors of a steady state - modeled after Bitcoin 
+- microblocks - incentivised to include as many as possible 
+- Bitcoin confirmations are finality numbers
+- Stacks uses Bitcoin
+- stacks blockchain can do more than Bitcoin - language clarity - Bitcoin had network effects - believe that everything will disappear apart from Bitcoin - that the security of the language is the most important
+- clarity precise fee
+- clarity not curing complete program 
+- clarity can build most of things that solidity can do
+- clarity probably has a steep learning curve

@@ -1,0 +1,16 @@
+Dankrad Feist Ethereum Foundation
+https://www.youtube.com/watch?v=j4aopB7ZRU0&ab_channel=EpicenterPodcast
+
+- started working on Ethereum foundation in 2019 research team
+- does research on the future of Ethereum
+- sharding update is one of the largest updates 
+- data shards Dan things cheaper
+- a lot of work will be done on security 
+- rollups will be the data that is put on data
+- today rollups do not take up a large amount of block state
+- shard is the second block chain that runs in parallel 
+- execution shards execute code 
+- validators are randomly selected from comity
+- optimistic rollup problem are finality delays
+- statelessness 
+-

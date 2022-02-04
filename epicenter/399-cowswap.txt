@@ -1,0 +1,21 @@
+https://youtu.be/yzTpWIozwUk
+Epicenter Podcast 6
+CowSwap
+- Felix Leupold Gnosis
+- CowSwap
+- decentralized protocols for exchange
+- Gnosis - shift from prediction markets
+- tried different exchange auctions - started with Dutch auctions
+- in a block the order of the transactions in a block matters 
+- Gnosis protocol and CowSwap (first trading interface built ) 
+- CowSwap - uses utility function 
+- trader surplus
+- envy surplus
+- economic incentives for settling transactions - can charge small percentage as protocol fee 
+- slashing 
+- censoring problem 
+- no ordering within batch is the most important
+- new CowSwap has balancer
+- how to prevent front running 
+- every one has equal price on orders 
+- 3 main liquidity sources integrated today

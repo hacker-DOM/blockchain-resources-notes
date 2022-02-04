@@ -1,0 +1,15 @@
+Gavin Wood
+https://youtu.be/eP4mT19S_jg
+
+- met with Vitalik
+- Ethereum captured imagination more than Bitcoin
+- the essence of Ethereum captured his imagination
+- coded at hackathons in Miami and started thinking 
+- saw that Ethereum as better Bitcoin, not so much about smart contracts 
+- very about delivering the best technical solutions initially without focusing on marketing
+- Developer focused 
+- Polkadot founder 
+- Substrate is against blockchain maximalism 
+- going against hard forks 
+- governance of blockchain must be process - on chain governance is execution of process automatically
+- not there should be offchain process management

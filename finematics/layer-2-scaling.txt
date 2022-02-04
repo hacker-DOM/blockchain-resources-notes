@@ -1,0 +1,16 @@
+https://youtu.be/BgCgauWVTs0
+Finematics Notes 19
+Ethereum Layer 2 Scaling 
+
+- Scaling - debate begins often after network congestion
+- network congestion in 2020 due to popularity of DEFI and yield farming
+- very high gas fees 
+- scaling blockchain can be layer 1 or layer 2 
+- layer 2 is built upon layer 1 - increases number of transactions to 2-4 thousand per second
+- Ethereum 2.0 - proof of stake and sharding - even with Ethereum 2.0 it is necessary for layer 2 scaling
+- scalability should not come at cost of decentralization and security
+- layer 2 scaling should increase tx speed and tx throughput
+- Channels are an example of layer 2 scaling (payment and state channels)
+- plasma is a layer 2 scaling solution (child chains from parent chains)
+- sidechains - Ethereum compatible blockchains
+- rollups - zk and optimistic - zk faster - optimistic even compatible

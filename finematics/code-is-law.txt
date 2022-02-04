@@ -1,0 +1,18 @@
+Code is law
+https://youtu.be/pWGLtjG-F5c
+Finematics
+
+- technology used to enforce rules
+- codd can dictate what we do - with smart contracts this is possible
+- smart contract code is stored and executed on the blockchain 
+- if then semantics are used
+- human factor from decision making is removed from smart contracts 
+- works i. Fully deterministic way smart contract can rely purely on information available in the blockchain 
+- oracle services can minimize trust 
+- oracles are more likely to provide correct data
+- solidity is used for writing smart contracts 
+- all smart contracts are immutable
+- decentralized are smart contracts
+- traditional contracts are not cheaper
+- reusability is possible with smart contracts
+-

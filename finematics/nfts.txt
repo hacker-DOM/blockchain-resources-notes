@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=Xdkkux6OxfM
+NFTS 
+Finematics Notes 7
+- non-fungible tokens
+- can represent pieces of art etc.
+- fungibility - the characteristic of goods interchangeable and indistinguishable ie. fiat money is something that is fungible, a limited edition basketball card is non-fungible, a piece of art is non-fungible 
+- NFT properties - unique, provably scarce, indivisible, ownership guarantee, easily transferable, fraud-proof
+- NFT - ERC 721 ERC 1155 standards on Ethereum - main examples
+- ERC 20 - examples stable coins USDT, DAI, allows for creating fungible tokens (indistinguishable)
+- ERC 721 - non-fungible tokens - can create tokens with different properties ie. CRYPTOKITTIES 
+- ERC 1155 - next step - both fungible and non-fungible tokens - ENJIN created this 
+- NFT GAMES - GOD unchained Dencetraland 
+- NFT Marketplaces R, SuperRare
+- Domain names - ENS ETH extension unstoppable domain .crypto
+- NFTS can be expensive - 600ETH most expensive Cryptokittiy (170 thousand dollars), or insurance contract be used as NFT
+- NFTS in DEFI - lending protocols - use NFTS as collateral for loans

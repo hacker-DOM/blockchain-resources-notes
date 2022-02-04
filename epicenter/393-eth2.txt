@@ -1,0 +1,18 @@
+Epicenter Podcast 20
+https://youtu.be/rugj8KixN4Q
+Danny Ryan
+
+- Movem from San Fran to New Orleans
+- heard of proof of stake 
+- made staking pool
+- Helps facilitate Eth2
+- Eth2 - proof of work to proof of stake - bootstrapping of new proof of stake mechanism - started beacon chain - builds and secures itself 
+- has validator set - has balance and duties 
+- anyone can become a validatoor if you have 32 Eth
+- validator have two pieces of software
+- as opposed to proof of work payouts are much more regularized 
+-  slashing - for very malicious activities
+-  difficulty bomb - better shift to proof of stake
+-  proof of stake - better for environment and security ( assets in the network are in the protocol) 
+-  exchanges and staking pools play a large roll
+-  MEV - democratisation

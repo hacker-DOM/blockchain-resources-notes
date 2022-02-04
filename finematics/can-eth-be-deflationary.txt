@@ -1,0 +1,15 @@
+Can ETH become deflationary?
+https://youtu.be/MGemhK9t44Q
+Finematics
+- EIP 1559
+- EIP - Ethereum Improvement Proposal 
+- design document covering improvements
+- EIP pit forward 2019 by Buterin 
+- current fee model - first price auction (users bid for space in block)
+- EIP 1559 - solves this problem - makes transaction fees more predictable, reduce delay, improve UX, create positive feedback loop 
+- basefee - minimum fee to be laid in transaction - set fee per block
+- miner tip introduced 
+- feecap also introduced - must not be lower than base fee
+- Current fee system less profit for miners 
+- base fee burning
+-

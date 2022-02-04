@@ -1,0 +1,21 @@
+Tim Roughgarden
+Tackling the Gas Fee Problem on Ethereum
+https://m.youtube.com/watch?v=62UI3Js30Io
+- specializes in Algorithms 
+- last year focusing more and more on blockchain research 
+- focus on consensus protocols 
+- started receiving calls about a specific set of expertise 
+- interacted with non-traditional students 
+-  need transactions to separate different types of transactions 
+- how to determine gas price to pay - maybe set automatically (like metamask) - can make educated guess how much others are paying
+- new mechanism improves tokenomics of protocol 
+-  base fee (price floor) minimum gas price to get included in block
+- base fee is independent of block
+- base fee cannot go to minor of that block 
+- where does base fee come from - local search 
+- variable size blocks 
+- base fee must be adjusted by the person
+- why won't miners just publish empty blocks? - tips
+- block size is being limited by average rate of creation 
+- there is no new attack vector around collusion 
+- Ethereum community is mobilized to minimize chaos (ie. around forks)

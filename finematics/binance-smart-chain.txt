@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=iJDoc0kvXLc&ab_channel=Finematics
+Binance Smart Chain
+- April 2018 - Binance launched own blockchain
+- high speed blockchain
+- tenderminnt concencus model
+- focused ob Binance Dex
+- launched in september 2020
+- scalability trilemma
+- security, scalability and decentralization cannot be achieved simultaneously 
+- ssharding - split block chain into multiple chains 
+- not proof of work or stake but proof of stake of authority 
+- validators are used
+- 21 active validators limit 
+- benefits - allows new teams to deploy contracts at fraction of cost
+- binance leveraged its position as one of top cryptocurrenncy exchanges

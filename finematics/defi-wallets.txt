@@ -1,0 +1,10 @@
+https://youtu.be/JCYIFtb8DwM
+Finematics Notes 11
+Top 3 Defi wallets 2021
+- allow for sending, receiving, and storing crypto
+- browser, hardware, mobile app, web app
+- facilitate defi functioning 
+- MetaMask - crypto wallet - gateway to defi apps (can connect to things like Uniswap) - bridge into Ethereum - stored in browser - can create multiple accounts - pros (non custodial, easy to use, opensource, private keys kept in browser),. Cons - hot wallet, ethereum based assets only - 1 minion users - have browser extension and mobile mask 
+- all wallets non custodial - users have full control over wallet - can rely on wallet provider to recover - recovery phrase can be used to fully restore wallet - must take security of recovery phrase - write it down offline (multiple copies stored securely in different locations) - don't store recovery phrase online 
+- Ledger - hardware device - Eth, Bitcoin, lite coin - must write down recovery phrase - private keys are stored on hardware - great for people who have many digital assets - to sign transaction hardware device must be in device - pros - good for large, cons - requires security of hardware device -most popular is USB type 
+- Argent - easy for phone - automatically integrates with many defi protocols - non custodial (creates smart contract on Ethereum when new), security - uses (not recovery phrase) but has social recovery (friends, hardware wallets, MetaMask), majority have to provide approval, can temporary freeze wallet - pros - non custodial, daily limits, locking option, integrates - cons - need understanding of social recovery, not as secure as hardware wallet

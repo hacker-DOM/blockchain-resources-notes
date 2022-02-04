@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=8XJ1MSTEuU0&ab_channel=Finematics
+Impermanent Loss
+- temporary loss of funds when providing liquidity
+- observed in standard liquidity pools
+- LP must provide correct assets in correct ratio
+- if liquidity provider withdraws liquidity than loss becomes permanent 
+- pools outside of uniswap can also result in impremanent loss
+- curve pools, balancer pools

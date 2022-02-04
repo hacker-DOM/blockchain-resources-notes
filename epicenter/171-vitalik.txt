@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=3p8CGBgLTZQ
+Epicenter Podcast Notes 2
+- Vitalik Buterin 
+- Ethereum governance is stabilizing more and more 
+- smart programming safety is increasing 
+- major crises in any ecosystem are inevitable
+- proof of work to proof of stake - why? - advantages - reduces inefficient hardware costs, electricity costs (proof of excellence, proof of machine learning) - proof of stake is the most feasible; doesn't waste external hardware costs
+- proof of stake is more secure against serious attackers 
+- cost of attack is much lower than the cost of defence - cryptography is the opposite 
+- there is a need to defend from a 51 per cent attack 
+- how to incentivize participants with protocol - proof of stake 
+- when will proof of stake be implemented? probably next year
+- consensus by bet - can mimic proof of work - validators make consensus by bet - demphasizing the concept - traditional byzantine fault tolerance literature for consensus algorithm 
+- Casper algorithm
+- blockchain intropability
+- notary schemes, hack logging

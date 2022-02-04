@@ -1,0 +1,21 @@
+https://youtu.be/bWBfLArJsFk
+Finematics Notes 20
+Bancor V2 
+
+- Bancor - on chain liquidity protocol 
+- Launched 2017 - one of biggest ICOs 
+- automated market making
+- Bancor one of first protocols which integrated liquidity pools 
+- Bancor created permission less interfaces for listing new coins 
+- key obstacles - impermanent loss , exposure to multiple assets, capital inefficiency
+- DAMM
+- impermanent loss - temporary loss of funds when prpvising liquidity 
+- observed in standard liquidity pools 
+- fixed ratio between tokens - dynamically balance ratio in the pool
+- DAMM use price oracles
+- chain link - peovode external prices to contracts in a decentralized and reliable way
+- dynamic fees 
+- V2 pool - initialized within a balanced state 
+- balancing mechanism - liquidity provider providing two assets 
+- curve protocol - lower slippage
+-

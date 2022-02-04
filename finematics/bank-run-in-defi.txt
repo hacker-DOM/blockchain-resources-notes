@@ -1,0 +1,17 @@
+https://youtu.be/HUokre-szPg
+Finematics
+Bank Run In Defi
+
+- stable coin algorithmic is difficult
+- one of the most difficult things to do 
+- stable coins come with tradeoffs
+- cost centralization and 
+- IrON - partially collateralized stablecoin 
+- IrON expanded to polygon
+- Titan - native token on polygon 
+- parabolic growth 
+- Marc Cuban - mentioned in blog post
+- stable coin, token, and stable coin
+- partially collateralized
+- target collateral ration - determines function between us DC and titan 
+- most market participants are driven by making a profit

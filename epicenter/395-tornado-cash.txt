@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=jOydFKLOUnU&ab_channel=EpicenterPodcast
+Roman Semenov
+Tornado Cash
+- decentralized privacy preserving solution built on Ethereum
+- started physics, than programming,
+- built privacy projects on hackatons 
+- can put funds into Tornado Cash - can withdraw funds without knowing where the cash was put it (is this money laundering)
+- 0 knowledge based not minus fee
+- a bag where you put in coin and withdraw coins
+- better to wait some time
+- typical daily volume - dozens of transactions per each pool
+- Ether is supported, DAI, CDAI
+- assets for tornado cash pools 
+- modifier hash
+- way to improve would be make a way that is similar to ZCash
+- layer 2 can be made cheaper
+- anonymous founder - didn't want to be because lack of trust 
+- compliance tool - prove link between deposit and withdrawal - can easily prove where funds came from 
+- layer 2 is the direction of Tornado cash

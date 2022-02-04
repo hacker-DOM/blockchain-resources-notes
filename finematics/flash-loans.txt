@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=mCJUhnXQ76s
+Flash Loans
+Finematics Notes 14
+- can borrow millions of dollars of crypto with no collateral
+- flash loans can borrow any amount of assets from a smart contract pool with no collateral
+- can be used for arbitrage, self-liquidation and swapping collateral
+- the flash loan must be borrowed and repaid within same blockchain transaction
+- ethereum transaction - sending eth, sending erc 20 tokens, and interacting with smart contract is all done within a transaction scope 
+- flash loans - must find flash loan provider ie. AAVE - can borrow different coins from pool if repaid within the same transaction - must return amount and small fee (fee is for depositors and integrators who help provide capital) - no risk of the borrower not repaying the amount 
+- use cases of flash loans - arbitrage (quick swaps but must consider network fees, price slippage, front running); collateral swap; self-liquidation

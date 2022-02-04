@@ -1,0 +1,13 @@
+Finematics 
+https://youtu.be/qG1goOptZ5w
+Yearn Finance
+- yearn Finance - yearn protocol - yield protocol - yield optimizer
+- before had to check which protocol provided best returns
+- best protocol Is provided for - checks of different pools
+- money in pool began to grow
+- had to optimize for splitting funds
+- Andre began working with curve
+- finding the startegy became more complex
+- began working on vaults
+- yfi - governance token for yearn
+- yswap, ytrade, yborrow, and other services
