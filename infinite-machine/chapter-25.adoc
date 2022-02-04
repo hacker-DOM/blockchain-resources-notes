@@ -1,17 +1,17 @@
 # Chapter 25
 
-. MyEtherWalleer  - digital wallet
-. Answering support tickets online
-. Many different ICOs
-. TOKENCard - May 5 raised almost 13 million in thirty minutes - pay crypto wherever VISA accepted
-. ICOs at the time were incredibly ambitious
-. SIngularDTV decentralised Netflix
-. Economy - Uber for fund management
-. Chronobank - disrupting HR/recruitment/finance industries
-. Brave - web browser founded by Mozilla cofounder and dJavaScript creator - 35 million
-. Developers started to think of building different applications on top of bitcoin
-. AppCoin - tel aviv
-. Programming alternative currencies with liquidity for smart contracts
-. BNT tokens
-. Bancor team
-. More hyped-up ICOs
+* MyEtherWalleer  - digital wallet
+* Answering support tickets online
+* Many different ICOs
+* TOKENCard - May 5 raised almost 13 million in thirty minutes - pay crypto wherever VISA accepted
+* ICOs at the time were incredibly ambitious
+* SIngularDTV decentralised Netflix
+* Economy - Uber for fund management
+* Chronobank - disrupting HR/recruitment/finance industries
+* Brave - web browser founded by Mozilla cofounder and dJavaScript creator - 35 million
+* Developers started to think of building different applications on top of bitcoin
+* AppCoin - tel aviv
+* Programming alternative currencies with liquidity for smart contracts
+* BNT tokens
+* Bancor team
+* More hyped-up ICOs
