@@ -1,0 +1,37 @@
+# Circuit Breakers Explained
+
+https://www.youtube.com/watch?v=IfSOhFqth8w
+
+Circuit Breakers Explained 
+
+March 2020 - New York stock exchanged halted for 15 minutes 
+Level 1 circuit breaker 
+The last time this was in 1997
+circuit breaker - automatic mechanism to stop the market from freefall by halting trading for a predefined time
+NYSE 3 levels of market-wide circuit breakers 
+Level 1 - halted from 15 minutes, below -7 percent (S&P 500 price)
+level 2  - (S&P 500 price) -13 percent before 3:225 PM Trading haldted for 15 minutes
+level 3  - (S&P 500 price) - 20 any time trading halted for rest of day 
+
+Market-wide circuit breakers 
+
+Individidau lcirtui breakers. 
+trigger lever determined by the price of stock
+
+futures exchanges have circuit breakers
+
+crypto exchanges do not have circuit breakers
+
+why stop market in the first place - to stop panic selling 
+usually drop because of unprecedented news, flash crash
+usually makes sent to catch a breath 
+another reason is regulators 0 black Monday, cool down for the stock market, prevent total collapse 
+1st circuit breakers were introduced after black Monday  after stock market tanked 23 percent 
+based on dow jones industrial average 
+point-based 
+History:
+1997 only time in the history of NYSE that circuit breaker was triggered
+after this  S&P 500 index
+2020 level 1 circuit breaker was triggered
+circuit breakers worked as designed 
+calmed down the stock market and prevented further losses

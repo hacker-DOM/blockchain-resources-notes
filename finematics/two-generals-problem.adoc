@@ -1,0 +1,50 @@
+# Two Generals Problem
+
+https://www.youtube.com/watch?v=s8Wbt0b8bwY
+
+Finematics notes 5
+Two Generals Problem Explained 
+AKA TWO GENERALS paradox, or two armies problem
+classic computer science thought experiment 
+different than byzantine generals problem (more general problem)
+TWO GENERALS PROBLEM
+two armies two general planning attack on a common enemy
+the city is valley, can easily fight off one army
+must-do synchronized attack is the only chance to win
+must send messenger across the territory 
+if the messenger is caught then message is lost 
+General A leader - send message attack tomorrow at dawn 
+General B send confirmation
+General A receives confirmation
+This is not enough for confirmation General B does not know
+But what if General A receives confirmation
+That has to be confirmed
+Infinite confirmations
+
+Another thought experiment 
+General A sends a message to not sure when the message reached
+not able to tell if the message is received 
+the inconsistent state is left 
+cannot guarantee that consensus is reached 
+There is no solution to the two generals problem
+problem is unsolvable 
+
+Similar to computer communication
+Two computer systems 
+untrusted communication channel
+the inconsistent state between two machines 
+TCP - transmission control protocol
+4-way handshake 
+FIN ACK FIN ACK
+half-open connection 
+TCP is a reliable protocol but does not solve two generals protocol
+Number of people trying to solve two generals problem 
+Accept the uncertainty of the communication channel, mitigate to a certain degree
+General A - sends 100 messages and will receive at least one (serial number)
+General B - can gauge how many messages were 
+expensive
+sends every 20 minutes
+absence of messengers builds up confidence
+speed vs cost tradeoff 
+
+Summary > two generals problem, classic computer science problem that is unsolvable, communication over an unreliable channel
