@@ -1,0 +1,24 @@
+# What is DeFi
+
+https://www.youtube.com/watch?v=k9HYC0EJU6E
+
+* What is DEFI - decentralized finance explained
+* DEFI APPS decentralized finance - new financial system open to everyone
+* DEFI relies on cryptography blockchain and smart contracts
+* CUrrently most defi projects built on Ethereum
+* This is because of solidity which can write smart contracts
+* Ethereum has most developed smart contract ecosystem for building defi apps
+* MakerDAO 2015 - lockin collateeral and generate DAI - stable coin - can be used for saving
+* DEFI creates whole new financial ecosystem
+* DEFI PROJECTS - Compound - biggest DEFI project
+* AAVE
+* DAI algorythmic stable coin
+* Decentralized exchanges
+* Margin trading - ie. fulcrum
+* Oracle services - reliable data
+* DEFI vs CEFI
+* permissionles vs permissioned
+* open vs closed
+* censorship resistant vs censored
+* Defi risks
+* DEFI - open, permissionless

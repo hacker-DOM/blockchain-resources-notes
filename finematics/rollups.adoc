@@ -1,0 +1,20 @@
+# Rollups
+
+https://www.youtube.com/watch?v=7pWxCklcNsU
+
+. Ethereum scaling
+. When ethereum popular such as bull market 2021 gas fees become very high 
+. Layer 1 scaling Layer 2 scaling sidechains
+. Layer 1 - Eth2 - migration to proof of stake, sharding 
+. Sharding and rollups can increase throughput of Ethereum network 
+. Layer 2 solutions - channels - work well on a specific set of applications
+. Rollups apply both
+. Sidechains - less secure than Ethereum network 
+. Rollups are most anticipated scaling solution - what are rollups?
+. Rollups - computation of chain but data on chain (thereby still being able to use the security of the ethereum network)
+. Rollups are excecuted outside of the chain 
+. Data is taken, rolled up and excecutded on the main chain 
+. How does ethereum know that the posted data was valid, not submitted by a bad actor?
+. Different types of proofs 
+. Optimistic rollups vs zk rollups 
+. Eth2 and rollups transaction to spee

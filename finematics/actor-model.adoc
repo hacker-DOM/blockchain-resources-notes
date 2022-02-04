@@ -1,0 +1,27 @@
+# Actor Model Explained
+
+https://www.youtube.com/watch?v=ELwEdb_pD0k
+
+* actor model - a conceptual model of concurrent computation originated in 1973
+* actor fundamental unit of computation
+* the only allowed operations are - to create another actor, send a message, designate how to handle the next message (actor can hold own private state and process message based on state)
+* ie. actor which holds the balance 
+* actors are lightweight 
+* easy to create millions 
+* actors - isolated from each other, do not share a memory, the state can be changed through next message
+* each actor has a mailbox
+* actors wait for messages to arrive
+* actors can communicate through each other only through message
+* messages simple immutable data structures
+* actors can handle one message at a time
+* work asynchronously
+* actors can send message to another actor by sending a message
+* the actor has addresses from the message it receives
+* one actor can have many addresses
+* the address is not equal to the identity 
+* actors can run locally or remotely
+* the actor is completely transparent
+* fault-tolerance - actors can supervise other actors (supervisor can reset actors)
+* PROS - easy to scale, fault tolerance, geographical distribution
+* CONS - actors susceptible to deadlocks and mailbox overflowing 
+* IMplementations - AKKA and ELIXIR
